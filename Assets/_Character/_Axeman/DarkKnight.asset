@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95dac75d08be78a4bb002fb75987cc88, type: 3}
+  m_Name: DarkKnight
+  m_EditorClassIdentifier: 
+  Name: Dark Knight
+  Description: A short-range warrior equipped with the strongest dark sword - Elucidator.
+    He's the slowest out of the 3 but makes up for it for with his overwhelming strength
+    and defense.
+  Speed: 6
+  Strength: 10
+  Health: 120
+  character: {fileID: 919132149155446097, guid: ef5b2a8c21531ea40bbf2dd75bca2c21, type: 3}

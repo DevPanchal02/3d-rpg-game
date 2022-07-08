@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95dac75d08be78a4bb002fb75987cc88, type: 3}
+  m_Name: Ninja
+  m_EditorClassIdentifier: 
+  Name: Ninja
+  Description: He is recognized as the fastest shinbo, his speed is unmatched. His
+    ability for short range and long range attacks makes him the most adaptable.
+  Speed: 8
+  Strength: 7
+  Health: 100
+  character: {fileID: 919132149155446097, guid: cb372737c919d954e8ce43c345cda5dd, type: 3}
